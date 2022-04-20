@@ -9,3 +9,5 @@ Steps and commands for the class COSC381:
 5. Initalize the database : `flask init-db` After the database is initialize, the database files at : `instance/flasker.sqlite`
 6. Start the website: `flask run`
 7. The webpage can be checked at :`http://127.0.0.1:5000/movies/`
+8. To stop the app, hit: `ctrl + c`
+9. If the virtual environment is no longer needed, it can be deactivated by `deactivate`
